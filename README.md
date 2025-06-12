@@ -10,7 +10,8 @@ Bu loyiha ESP32 mikrokontrolleri va 128x64 OLED displey yordamida yasalgan klass
 
 ## 📷 Loyiha Ko‘rinishi
 
-![OLED Snake Game](https://your-image-url-if-any.com)
+![OLED Snake Game] ![image](https://github.com/user-attachments/assets/10141193-a97e-4b09-92b4-3cc8585a3e40)
+
 
 ## 🔧 O‘rnatish
 
